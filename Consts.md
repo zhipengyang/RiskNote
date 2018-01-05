@@ -120,6 +120,7 @@
     const FBI_SCORE = 'FBIScore'; //腾讯欺诈行为调查
     
 ####3. Process State
+
     self::PROCESS_STATE_START => '审核开始',
     self::PROCESS_STATE_ZHIMA => '芝麻分',
     self::PROCESS_STATE_BASE => '基础审核',
@@ -159,6 +160,7 @@
     self::PROCESS_STATE_MAKE_MANUAL =>'创建人工审核订单',
 
 ####4. 大数据模型
+
     const BIG_DATA_MODEL_TYPE_ZK = 1; //中科模型
     const BIG_DATA_MODEL_TYPE_LH = 2; //刘航模型
     const BIG_DATA_MODEL_TYPE_RONG_360 = 3; //融360模型
@@ -179,6 +181,7 @@
     ];
 
 ####5. 算法查询
+
     public static $monitorType = [
         self::TONGDUN   => 'common\modules\risk\models\TdMonitor'
     ];
