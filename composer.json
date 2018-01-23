@@ -2,6 +2,6 @@
   "name": "bjieifioenenfueddd/risknote",
   "description": "A short description of what your package does",
   "require": {
-    "php": "^5.3.3 || ^7.0",
+    "php": "^5.3.3 || ^7.0"
   }
 }
