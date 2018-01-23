@@ -1,6 +1,8 @@
 {
   "name": "bjieifioenenfueddd/risknote",
   "description": "A short description of what your package does",
+  "prefer-stable": true,
+  "version": "0.0",
   "require": {
     "php": "^5.3.3 || ^7.0"
   }
