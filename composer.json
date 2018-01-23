@@ -1,18 +1,8 @@
 {
   "name": "bjieifioenenfue/risknote",
-  "description": "工作流",
-  "authors": [
-    {
-      "name": "yangzhipeng",
-      "email": "zhipeng0520@126.com"
-    }
-  ],
+  "description": "A short description of what your package does",
   "require": {
-  },
-  "autoload": {
-    "psr-4": {
-      "risknote\\": "src/"
-    }
-  },
-  "minimum-stability": "stable"
+    "php": "^5.3.3 || ^7.0",
+    "another-vendor/package": "1.*"
+  }
 }
